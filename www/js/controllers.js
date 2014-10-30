@@ -1,6 +1,7 @@
 angular.module('starter.controllers', [])
 
-.controller('DashCtrl', function($scope) {
+    //injecting cars in dash to load json file before tab-cars page is opened
+.controller('DashCtrl', function($scope, Cars) {
 })
 
 .controller('CarsCtrl', function($scope, Cars) {
