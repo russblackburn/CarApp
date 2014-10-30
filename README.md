@@ -11,7 +11,7 @@ CarApp
 ##2. Clone##
 
     $ cd <choose a location>
-    $ git clone https://github.com/russblackburn/CarDealerApp.git
+    $ git clone https://github.com/russblackburn/CarApp.giti
     
 ##3. Run##
 
