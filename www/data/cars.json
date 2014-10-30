@@ -1,0 +1,123 @@
+[
+
+    {
+        "id":0,
+        "year":"2008",
+        "make":"Nissan",
+        "model":"Altima",
+        "value":"12,000",
+        "mileage":"52,465",
+        "vin":"1N4AL21E58N459143",
+        "imageURL":"img/altima/thumbnail.jpg",
+        "dateListed":"2014-08-17 07:13:00"
+    },
+
+    {
+        "id":1,
+        "year":"2003",
+        "make":"Chevrolet",
+        "model":"Corvette",
+        "value":"16,000",
+        "mileage":"92,365",
+        "vin":"1G1YY22G135126806",
+        "imageURL":"img/corvette/thumbnail.jpg",
+        "dateListed":"2014-05-12 10:12:00"
+    },
+
+    {
+        "id":2,
+        "year":"2009",
+        "make":"Mini",
+        "model":"Cooper",
+        "value":"15,600",
+        "mileage":"52,087",
+        "vin":"WMWMF73549TT96054",
+        "imageURL":"img/cooper/thumbnail.jpg",
+        "dateListed":"2014-10-27 18:08:00"
+    },
+
+    {
+        "id":3,
+        "year":"2014",
+        "make":"Honda",
+        "model":"Civic",
+        "value":"18,809",
+        "mileage":"2,087",
+        "vin":"2HGFB2F51EH512180",
+        "imageURL":"img/civic/thumbnail.jpg",
+        "dateListed":"2014-01-27 03:08:00"
+    },
+
+    {
+        "id":4,
+        "year":"2006",
+        "make":"Porsche",
+        "model":"911",
+        "value":"44,440",
+        "mileage":"40,800",
+        "vin":"WP0AB29946S741731",
+        "imageURL":"img/911/thumbnail.jpg",
+        "dateListed":"2014-03-10 05:10:00"
+    },
+
+    {
+        "id":5,
+        "year":"2009",
+        "make":"Nissan",
+        "model":"GTR",
+        "value":"57,400",
+        "mileage":"50,000",
+        "vin":"JN1AR54F69M252673",
+        "imageURL":"img/gtr/thumbnail.jpg",
+        "dateListed":"2014-08-20 11:10:00"
+    },
+
+    {
+        "id":6,
+        "year":"2002",
+        "make":"Honda",
+        "model":"Accord",
+        "value":"5,900",
+        "mileage":"98,000",
+        "vin":"JHMCG66862C029294",
+        "imageURL":"img/accord/thumbnail.jpg",
+        "dateListed":"2014-03-13 13:20:00"
+    },
+
+    {
+        "id":7,
+        "year":"2015",
+        "make":"Nissan",
+        "model":"370 Nismo",
+        "value":"44,520",
+        "mileage":"7",
+        "vin":"JN1AZ4EH6FM440986",
+        "imageURL":"img/370nismo/thumbnail.jpg",
+        "dateListed":"2014-10-13 15:13:00"
+    },
+
+    {
+        "id":8,
+        "year":"2013",
+        "make":"Hyundai",
+        "model":"Veloster",
+        "value":"19,990",
+        "mileage":"14,780",
+        "vin":"KMHTC6AE8DU105333",
+        "imageURL":"img/veloster/thumbnail.jpg",
+        "dateListed":"2014-08-02 07:45:00"
+    },
+
+    {
+        "id":9,
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Golf",
+        "value":"14,758",
+        "mileage":"18,337",
+        "vin":"WVWDB7AJ6DW119248",
+        "imageURL":"img/golf/thumbnail.jpg",
+        "dateListed":"2014-09-28 16:45:00"
+    }
+
+]
