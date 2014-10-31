@@ -9,7 +9,7 @@
         "mileage":"52,465",
         "vin":"1N4AL21E58N459143",
         "imageURL":"img/altima/thumbnail.jpg",
-        "dateListed":"2014-08-17 07:13:00"
+        "fullCarName":"2008 Nissan Altima"
     },
 
     {
@@ -21,7 +21,7 @@
         "mileage":"92,365",
         "vin":"1G1YY22G135126806",
         "imageURL":"img/corvette/thumbnail.jpg",
-        "dateListed":"2014-05-12 10:12:00"
+        "fullCarName":"2003 Chevrolet Corvette"
     },
 
     {
@@ -33,7 +33,7 @@
         "mileage":"52,087",
         "vin":"WMWMF73549TT96054",
         "imageURL":"img/cooper/thumbnail.jpg",
-        "dateListed":"2014-10-27 18:08:00"
+        "fullCarName":"2009 Mini Cooper"
     },
 
     {
@@ -45,7 +45,7 @@
         "mileage":"2,087",
         "vin":"2HGFB2F51EH512180",
         "imageURL":"img/civic/thumbnail.jpg",
-        "dateListed":"2014-01-27 03:08:00"
+        "fullCarName":"2014 Honda Civic"
     },
 
     {
@@ -57,7 +57,7 @@
         "mileage":"40,800",
         "vin":"WP0AB29946S741731",
         "imageURL":"img/911/thumbnail.jpg",
-        "dateListed":"2014-03-10 05:10:00"
+        "fullCarName":"2006 Porsche 911"
     },
 
     {
@@ -69,7 +69,7 @@
         "mileage":"50,000",
         "vin":"JN1AR54F69M252673",
         "imageURL":"img/gtr/thumbnail.jpg",
-        "dateListed":"2014-08-20 11:10:00"
+        "fullCarName":"2009 Nissan GTR"
     },
 
     {
@@ -81,7 +81,7 @@
         "mileage":"98,000",
         "vin":"JHMCG66862C029294",
         "imageURL":"img/accord/thumbnail.jpg",
-        "dateListed":"2014-03-13 13:20:00"
+        "fullCarName":"2002 Honda Accord"
     },
 
     {
@@ -93,7 +93,7 @@
         "mileage":"7",
         "vin":"JN1AZ4EH6FM440986",
         "imageURL":"img/370nismo/thumbnail.jpg",
-        "dateListed":"2014-10-13 15:13:00"
+        "fullCarName":"2015 Nissan 370 Nismo"
     },
 
     {
@@ -105,7 +105,7 @@
         "mileage":"14,780",
         "vin":"KMHTC6AE8DU105333",
         "imageURL":"img/veloster/thumbnail.jpg",
-        "dateListed":"2014-08-02 07:45:00"
+        "fullCarName":"2013 Hyundai Veloster"
     },
 
     {
@@ -117,7 +117,7 @@
         "mileage":"18,337",
         "vin":"WVWDB7AJ6DW119248",
         "imageURL":"img/golf/thumbnail.jpg",
-        "dateListed":"2014-09-28 16:45:00"
+        "fullCarName":"2013 Volkswagen Golf"
     }
 
 ]
