@@ -8,10 +8,15 @@
           </label>
       </div>
 
-    <ion-list>
-      <ion-item ng-repeat="car in cars | filter:query | orderBy:orderProp" type="item-text-wrap" href="#/tab/car/{{car.id}}">
-        {{car.year}} {{car.make}} {{car.model}}
-      </ion-item>
-    </ion-list>
+      <div class="list">
+
+          <a ng-repeat="car in cars | filter:query | orderBy:orderProp"
+             href="#/tab/car/{{car.id}}" class="item item-icon-right item-thumbnail-right row">
+              <i class="icon ion-ios7-arrow-right"></i>
+              <img class="col col-25" ng-src="{{car.imageURL}}">
+              <h2 class="col col-75">{{car.year}} {{car.make}} {{car.model}}<br><span class="valueText">${{car.value}}</span><br><span class="vinText">VIN: {{car.vin}}</span></h2>
+          </a>
+
+      </div>
   </ion-content>
 </ion-view>
