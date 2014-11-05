@@ -2,18 +2,6 @@
 
     {
         "id":0,
-        "year":"2008",
-        "make":"Nissan",
-        "model":"Altima",
-        "value":"12,000",
-        "mileage":"52,465",
-        "vin":"1N4AL21E58N459143",
-        "imageURL":"img/altima/thumbnail.jpg",
-        "fullCarName":"2008 Nissan Altima"
-    },
-
-    {
-        "id":1,
         "year":"2003",
         "make":"Chevrolet",
         "model":"Corvette",
@@ -25,7 +13,7 @@
     },
 
     {
-        "id":2,
+        "id":1,
         "year":"2009",
         "make":"Mini",
         "model":"Cooper",
@@ -37,7 +25,7 @@
     },
 
     {
-        "id":3,
+        "id":2,
         "year":"2014",
         "make":"Honda",
         "model":"Civic",
@@ -49,7 +37,7 @@
     },
 
     {
-        "id":4,
+        "id":3,
         "year":"2006",
         "make":"Porsche",
         "model":"911",
@@ -61,7 +49,7 @@
     },
 
     {
-        "id":5,
+        "id":4,
         "year":"2009",
         "make":"Nissan",
         "model":"GTR",
@@ -73,7 +61,7 @@
     },
 
     {
-        "id":6,
+        "id":5,
         "year":"2002",
         "make":"Honda",
         "model":"Accord",
@@ -85,7 +73,7 @@
     },
 
     {
-        "id":7,
+        "id":6,
         "year":"2015",
         "make":"Nissan",
         "model":"370 Nismo",
@@ -97,7 +85,7 @@
     },
 
     {
-        "id":8,
+        "id":7,
         "year":"2013",
         "make":"Hyundai",
         "model":"Veloster",
@@ -109,7 +97,7 @@
     },
 
     {
-        "id":9,
+        "id":8,
         "year":"2013",
         "make":"Volkswagen",
         "model":"Golf",
