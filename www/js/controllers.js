@@ -6,6 +6,7 @@ angular.module('starter.controllers', [])
 
 .controller('CarsCtrl', function($scope, Cars) {
   $scope.cars = Cars.all();
+        $scope.orderProp = '-year';
 })
 
 .controller('CarDetailCtrl', function($scope, $stateParams, Cars) {
