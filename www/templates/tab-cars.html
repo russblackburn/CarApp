@@ -8,6 +8,9 @@
           </label>
       </div>
 
+      <!-- barcode scanner button for testing -->
+      <button class="button" ng-click="scanBarcode()">Scan</button>
+
       <div class="list">
 
           <a ng-repeat="car in cars | filter:query | orderBy:orderProp"

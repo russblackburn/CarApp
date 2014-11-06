@@ -4,9 +4,20 @@ angular.module('starter.controllers', [])
 .controller('DashCtrl', function($scope, Cars) {
 })
 
-.controller('CarsCtrl', function($scope, Cars) {
+.controller('CarsCtrl', function($scope, Cars, $cordovaBarcodeScanner) {
   $scope.cars = Cars.all();
         $scope.orderProp = '-year';
+
+        //adding barcode scanner
+        $scope.scanBarcode = function() {
+            $cordovaBarcodeScanner.scan().then(function(imageData) {
+                alert(imageData.text);
+                console.log("Barcode Format -> " + imageData.format);
+                console.log("Cancelled -> " + imageData.cancelled);
+            }, function(error) {
+                console.log("An error happened -> " + error);
+            });
+        };
 })
 
 .controller('CarDetailCtrl', function($scope, $stateParams, Cars) {
