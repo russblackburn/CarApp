@@ -13,7 +13,7 @@ CarApp
     $ cd <choose a location>
     $ git clone https://github.com/russblackburn/CarApp.git
     
-##3. Run##
+##3. Emulate/Serve##
 
     Emulate IOS
     $ ionic platform add ios
@@ -22,3 +22,10 @@ CarApp
     
     Run In Browser
     $ ionic serve
+
+##4. Plugin##
+
+    To use the barcode scanner add the following plugin after you have added your platforms
+
+    Barcode Scanner
+    $ cordova plugin add https://github.com/wildabeast/BarcodeScanner.git
