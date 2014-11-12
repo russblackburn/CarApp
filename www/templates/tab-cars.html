@@ -1,15 +1,21 @@
 <ion-view title="Cars">
   <ion-content>
 
+      <!-- barcode scanner button for testing -->
       <div class="list list-inset">
           <label class="item item-input">
               <i class="icon ion-search placeholder-icon"></i>
-              <input type="text" ng-model="query" placeholder="Year, Make, Model, or VIN">
+              <input type="text" ng-model="query" placeholder="Year, Make, Model, or VIN" id="scannerInput" value="">
           </label>
+          <button class="button button-block button-stable" ng-click="scanBarcode()">Scan VIN</button>
       </div>
 
-      <!-- barcode scanner button for testing -->
-      <button class="button" ng-click="scanBarcode()">Scan</button>
+      <!--value for input field that is not working ng-value="barcoderesults"-->
+
+
+
+      <!--<button class="button button-outline button-positive" ng-click="scanBarcode()">Scan</button>
+-->
 
       <div class="list">
 
