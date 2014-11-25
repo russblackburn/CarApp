@@ -10,7 +10,13 @@
         "vin":"1G1YY22G135126806",
         "imageURL":"img/corvette/thumbnail.jpg",
         "fullCarName":"2003 Chevrolet Corvette",
-        "upc":"9783822840559"
+        "upc":"9783822840559",
+        "images":{
+            "image1":"img/corvette/1.jpg",
+            "image2":"img/corvette/2.jpg",
+            "image3":"img/corvette/3.jpg",
+            "image4":"img/corvette/4.jpg"
+        }
     },
 
     {
@@ -22,7 +28,13 @@
         "mileage":"52,087",
         "vin":"WMWMF73549TT96054",
         "imageURL":"img/cooper/thumbnail.jpg",
-        "fullCarName":"2009 Mini Cooper"
+        "fullCarName":"2009 Mini Cooper",
+        "images":{
+            "image1":"img/cooper/1.jpg",
+            "image2":"img/cooper/2.jpg",
+            "image3":"img/cooper/3.jpg",
+            "image4":"img/cooper/4.jpg"
+        }
     },
 
     {
@@ -34,7 +46,13 @@
         "mileage":"2,087",
         "vin":"2HGFB2F51EH512180",
         "imageURL":"img/civic/thumbnail.jpg",
-        "fullCarName":"2014 Honda Civic"
+        "fullCarName":"2014 Honda Civic",
+        "images":{
+            "image1":"img/civic/1.jpg",
+            "image2":"img/civic/2.jpg",
+            "image3":"img/civic/3.jpg",
+            "image4":"img/civic/4.jpg"
+        }
     },
 
     {
@@ -46,7 +64,13 @@
         "mileage":"40,800",
         "vin":"WP0AB29946S741731",
         "imageURL":"img/911/thumbnail.jpg",
-        "fullCarName":"2006 Porsche 911"
+        "fullCarName":"2006 Porsche 911",
+        "images":{
+            "image1":"img/911/1.jpg",
+            "image2":"img/911/2.jpg",
+            "image3":"img/911/3.jpg",
+            "image4":"img/911/4.jpg"
+        }
     },
 
     {
@@ -58,7 +82,13 @@
         "mileage":"50,000",
         "vin":"JN1AR54F69M252673",
         "imageURL":"img/gtr/thumbnail.jpg",
-        "fullCarName":"2009 Nissan GTR"
+        "fullCarName":"2009 Nissan GTR",
+        "images":{
+            "image1":"img/gtr/1.jpg",
+            "image2":"img/gtr/2.jpg",
+            "image3":"img/gtr/3.jpg",
+            "image4":"img/gtr/4.jpg"
+        }
     },
 
     {
@@ -70,7 +100,13 @@
         "mileage":"98,000",
         "vin":"JHMCG66862C029294",
         "imageURL":"img/accord/thumbnail.jpg",
-        "fullCarName":"2002 Honda Accord"
+        "fullCarName":"2002 Honda Accord",
+        "images":{
+            "image1":"img/accord/1.jpg",
+            "image2":"img/accord/2.jpg",
+            "image3":"img/accord/3.jpg",
+            "image4":"img/accord/4.jpg"
+        }
     },
 
     {
@@ -82,7 +118,13 @@
         "mileage":"7",
         "vin":"JN1AZ4EH6FM440986",
         "imageURL":"img/370nismo/thumbnail.jpg",
-        "fullCarName":"2015 Nissan 370 Nismo"
+        "fullCarName":"2015 Nissan 370 Nismo",
+        "images":{
+            "image1":"img/370nismo/1.jpg",
+            "image2":"img/370nismo/2.jpg",
+            "image3":"img/370nismo/3.jpg",
+            "image4":"img/370nismo/4.jpg"
+        }
     },
 
     {
@@ -94,7 +136,13 @@
         "mileage":"14,780",
         "vin":"KMHTC6AE8DU105333",
         "imageURL":"img/veloster/thumbnail.jpg",
-        "fullCarName":"2013 Hyundai Veloster"
+        "fullCarName":"2013 Hyundai Veloster",
+        "images":{
+            "image1":"img/veloster/1.jpg",
+            "image2":"img/veloster/2.jpg",
+            "image3":"img/veloster/3.jpg",
+            "image4":"img/veloster/4.jpg"
+        }
     },
 
     {
@@ -106,7 +154,13 @@
         "mileage":"18,337",
         "vin":"WVWDB7AJ6DW119248",
         "imageURL":"img/golf/thumbnail.jpg",
-        "fullCarName":"2013 Volkswagen Golf"
+        "fullCarName":"2013 Volkswagen Golf",
+        "images":{
+            "image1":"img/golf/1.jpg",
+            "image2":"img/golf/2.jpg",
+            "image3":"img/golf/3.jpg",
+            "image4":"img/golf/4.jpg"
+        }
     }
 
 ]
