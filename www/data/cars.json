@@ -11,12 +11,16 @@
         "imageURL":"img/corvette/thumbnail.jpg",
         "fullCarName":"2003 Chevrolet Corvette",
         "upc":"9783822840559",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
         "images":{
             "image1":"img/corvette/1.jpg",
             "image2":"img/corvette/2.jpg",
             "image3":"img/corvette/3.jpg",
             "image4":"img/corvette/4.jpg"
-        }
+        },
+        "description":"2003 Corvette Z06 50th Anniversary Edition. Well maintained and very clean. I have had the car for a year, but am moving so I would like to sell it. The engine has been souped-up a bit with racing cams and modified timing. Sounds and runs great! This is a very fun car to drive. The body and interior are in good condition with very little noticeable wear. Includes cloth car cover."
     },
 
     {
@@ -29,12 +33,16 @@
         "vin":"WMWMF73549TT96054",
         "imageURL":"img/cooper/thumbnail.jpg",
         "fullCarName":"2009 Mini Cooper",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
         "images":{
             "image1":"img/cooper/1.jpg",
             "image2":"img/cooper/2.jpg",
             "image3":"img/cooper/3.jpg",
             "image4":"img/cooper/4.jpg"
-        }
+        },
+        "description":"Almost new! Clean title, great working condition, excellent gas mileage and tires; it runs like new and even has a new fresh smell. Come and take it for spin and ask us about our warranties: up to five years covering engine, transmission and all the other essentials. Let us take care of your car so you can worry about other things."
     },
 
     {
@@ -47,12 +55,16 @@
         "vin":"2HGFB2F51EH512180",
         "imageURL":"img/civic/thumbnail.jpg",
         "fullCarName":"2014 Honda Civic",
+        "title":"Salvage",
+        "doors":"4",
+        "fuel":"Gas",
         "images":{
             "image1":"img/civic/1.jpg",
             "image2":"img/civic/2.jpg",
             "image3":"img/civic/3.jpg",
             "image4":"img/civic/4.jpg"
-        }
+        },
+        "description":"Yeah baby! Yes! Yes! Yes! $ $ $ $ $ I knew that would get your attention! Now that I have it, let me tell you a little bit about this good-looking 2014 Honda Civic. Don't let the drumming of road noise wear you down. Bask in the quiet comfort of the cabin of this Honda Civic LX. Performance Honda of Bountiful is your premier Utah Honda dealer and is proud to be serving New and Used vehicles to the Salt Lake City, Bountiful, Centerville, Kaysville, Layton, Ogden, Sandy, West Valley, Idaho Falls, Rock Springs and surrounding Utah areas."
     },
 
     {
@@ -65,12 +77,16 @@
         "vin":"WP0AB29946S741731",
         "imageURL":"img/911/thumbnail.jpg",
         "fullCarName":"2006 Porsche 911",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
         "images":{
             "image1":"img/911/1.jpg",
             "image2":"img/911/2.jpg",
             "image3":"img/911/3.jpg",
             "image4":"img/911/4.jpg"
-        }
+        },
+        "description":"2006 PORSCHE 911 CARRERA 4S, FULL LEATHER, NAVIGATION, BLUETOOTH, TIPTRONIC TRANSMITION, CLEAN CARFAX!!! And Full Leather Seat Trim. Nice car! Call us now! Clean Title and Clean Carfax. Ken Garff Porsche Audi is honored to offer this fantastic-looking and fun 2006 Porsche 911. This wonderful 911 is the fresh car with low miles and everything you'd expect from Porsche, and THEN some. It is nicely equipped with features such as CLEAN CARFAX!!! And Full Leather Seat Trim. J.D. Power has named the 2006 911 as the highest ranked in Overall Performance and Design in its class."
     },
 
     {
@@ -83,12 +99,16 @@
         "vin":"JN1AR54F69M252673",
         "imageURL":"img/gtr/thumbnail.jpg",
         "fullCarName":"2009 Nissan GTR",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
         "images":{
             "image1":"img/gtr/1.jpg",
             "image2":"img/gtr/2.jpg",
             "image3":"img/gtr/3.jpg",
             "image4":"img/gtr/4.jpg"
-        }
+        },
+        "description":"The car is white and beautiful.  As Far as upGrades I Upgraded the Rotors front and rear and rebuilt the brakes just 4000 miles ago and they have a long life ahead of them.  The motor has been upgraded with SBD (Speed By Design) who flew in and did the upgrade personally,full exhaust injectors and intakes.  The car runs Ecutk software with Flexfuel, so you can run 91 or E-85 on the fly no need to switch maps."
     },
 
     {
@@ -101,12 +121,16 @@
         "vin":"JHMCG66862C029294",
         "imageURL":"img/accord/thumbnail.jpg",
         "fullCarName":"2002 Honda Accord",
+        "title":"Rebuilt",
+        "doors":"4",
+        "fuel":"Gas",
         "images":{
             "image1":"img/accord/1.jpg",
             "image2":"img/accord/2.jpg",
             "image3":"img/accord/3.jpg",
             "image4":"img/accord/4.jpg"
-        }
+        },
+        "description":"Wonderful little 2002 Honda Accord EX with SULEV 2.3 liter engine! terrific on gas, FWD, Sunroof, 6 cd changer, really a great commuter car for anyone!!! This Accord has a clean title and comes with a 3 MONTH 3000 MILE WARRANTY AND ONE YEAR ROADSIDE ASSISTANCE! It has gone through a 125 point inspection and has passed all required emissions and safety tests."
     },
 
     {
@@ -119,12 +143,16 @@
         "vin":"JN1AZ4EH6FM440986",
         "imageURL":"img/370nismo/thumbnail.jpg",
         "fullCarName":"2015 Nissan 370 Nismo",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
         "images":{
             "image1":"img/370nismo/1.jpg",
             "image2":"img/370nismo/2.jpg",
             "image3":"img/370nismo/3.jpg",
             "image4":"img/370nismo/4.jpg"
-        }
+        },
+        "description":"Imagine yourself behind the wheel of this terrific-looking 2015 Nissan 370Z. All work and no play makes Jack a dull boy. Well Jack was never accused of being dull in it. As a matter of fact, Jack has a little bad streak. And speaking of streaks, looks like he just left a couple more leaving the last stoplight. This car is nicely equipped with features such as ABS brakes, Alloy wheels, Electronic Stability Control, Heated door mirrors, Illuminated entry, Low tire pressure warning, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
     },
 
     {
@@ -137,12 +165,16 @@
         "vin":"KMHTC6AE8DU105333",
         "imageURL":"img/veloster/thumbnail.jpg",
         "fullCarName":"2013 Hyundai Veloster",
+        "title":"Rebuilt",
+        "doors":"4",
+        "fuel":"Gas",
         "images":{
             "image1":"img/veloster/1.jpg",
             "image2":"img/veloster/2.jpg",
             "image3":"img/veloster/3.jpg",
             "image4":"img/veloster/4.jpg"
-        }
+        },
+        "description":"This Veloster is the best affordale Sports car in America! Take a look at the leather interior, Navigation, and more! Getting you around with ease is a 138 horsepower, 1.6-liter engine that doesn't mind being pushed to it's limits! Even better - this Veloster sports an automatic transmission that will return nearly 30 mpg in the city and almost 40 mpg on the open road!"
     },
 
     {
@@ -155,12 +187,16 @@
         "vin":"WVWDB7AJ6DW119248",
         "imageURL":"img/golf/thumbnail.jpg",
         "fullCarName":"2013 Volkswagen Golf",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Diesel",
         "images":{
             "image1":"img/golf/1.jpg",
             "image2":"img/golf/2.jpg",
             "image3":"img/golf/3.jpg",
             "image4":"img/golf/4.jpg"
-        }
+        },
+        "description":"2.5L I5 DOHC, Cloth Seating Surfaces, Compass, Electronic Stability Control, Heated door mirrors, Power driver seat, Power steering, Power windows, Remote keyless entry, and Tachometer. Wow! What a nice smaller car. This charming-looking and fun 2013 Volkswagen Golf has a great ride and great power. I really enjoyed driving it. It's very clean, almost new, and really fun to drive. Believe me when I say that you'll be just impressed with how much you can pack into the hatch of this Golf. It is nicely equipped with features such as 2.5L I5 DOHC, Cloth Seating Surfaces, Compass, Electronic Stability Control, Heated door mirrors, Power driver seat, Power steering, Power windows, Remote keyless entry, and Tachometer. You gotta come and see us!!"
     }
 
 ]
