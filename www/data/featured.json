@@ -1,0 +1,69 @@
+[
+
+  {
+    "id":0,
+    "year":"2006",
+    "make":"Porsche",
+    "model":"911",
+    "value":"44,440",
+    "mileage":"40,800",
+    "vin":"WP0AB29946S741731",
+    "imageURL":"img/911/thumbnail.jpg",
+    "fullCarName":"2006 Porsche 911",
+    "title":"Clean",
+    "doors":"2",
+    "fuel":"Gas",
+    "images":{
+      "image1":"img/911/1.jpg",
+      "image2":"img/911/2.jpg",
+      "image3":"img/911/3.jpg",
+      "image4":"img/911/4.jpg"
+    },
+    "description":"2006 PORSCHE 911 CARRERA 4S, FULL LEATHER, NAVIGATION, BLUETOOTH, TIPTRONIC TRANSMITION, CLEAN CARFAX!!! And Full Leather Seat Trim. Nice car! Call us now! Clean Title and Clean Carfax. Ken Garff Porsche Audi is honored to offer this fantastic-looking and fun 2006 Porsche 911. This wonderful 911 is the fresh car with low miles and everything you'd expect from Porsche, and THEN some. It is nicely equipped with features such as CLEAN CARFAX!!! And Full Leather Seat Trim. J.D. Power has named the 2006 911 as the highest ranked in Overall Performance and Design in its class."
+  },
+
+  {
+    "id":1,
+    "year":"2009",
+    "make":"Nissan",
+    "model":"GTR",
+    "value":"57,400",
+    "mileage":"50,000",
+    "vin":"JN1AR54F69M252673",
+    "imageURL":"img/gtr/thumbnail.jpg",
+    "fullCarName":"2009 Nissan GTR",
+    "title":"Clean",
+    "doors":"2",
+    "fuel":"Gas",
+    "images":{
+      "image1":"img/gtr/1.jpg",
+      "image2":"img/gtr/2.jpg",
+      "image3":"img/gtr/3.jpg",
+      "image4":"img/gtr/4.jpg"
+    },
+    "description":"The car is white and beautiful.  As Far as upGrades I Upgraded the Rotors front and rear and rebuilt the brakes just 4000 miles ago and they have a long life ahead of them.  The motor has been upgraded with SBD (Speed By Design) who flew in and did the upgrade personally,full exhaust injectors and intakes.  The car runs Ecutk software with Flexfuel, so you can run 91 or E-85 on the fly no need to switch maps."
+  },
+
+  {
+    "id":2,
+    "year":"2015",
+    "make":"Nissan",
+    "model":"370 Nismo",
+    "value":"44,520",
+    "mileage":"7",
+    "vin":"JN1AZ4EH6FM440986",
+    "imageURL":"img/370nismo/thumbnail.jpg",
+    "fullCarName":"2015 Nissan 370 Nismo",
+    "title":"Clean",
+    "doors":"2",
+    "fuel":"Gas",
+    "images":{
+      "image1":"img/370nismo/1.jpg",
+      "image2":"img/370nismo/2.jpg",
+      "image3":"img/370nismo/3.jpg",
+      "image4":"img/370nismo/4.jpg"
+    },
+    "description":"Imagine yourself behind the wheel of this terrific-looking 2015 Nissan 370Z. All work and no play makes Jack a dull boy. Well Jack was never accused of being dull in it. As a matter of fact, Jack has a little bad streak. And speaking of streaks, looks like he just left a couple more leaving the last stoplight. This car is nicely equipped with features such as ABS brakes, Alloy wheels, Electronic Stability Control, Heated door mirrors, Illuminated entry, Low tire pressure warning, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+  }
+
+]

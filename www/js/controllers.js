@@ -1,7 +1,12 @@
 angular.module('starter.controllers', [])
 
     //injecting cars in dash to load json file before tab-cars page is opened
-.controller('DashCtrl', function($scope, Cars) {
+.controller('DashCtrl', function($scope, $http, Cars) {
+        $http.get('data/featured.json').success(function(data){
+            $scope.featured = data;
+            $scope.orderProp = '-year';
+        });
+
 })
 
 .controller('CarsCtrl', function($scope, Cars, $cordovaBarcodeScanner) {
@@ -25,6 +30,7 @@ angular.module('starter.controllers', [])
                 console.log("An error happened -> " + error);
             });
         };
+
 })
 
 .controller('CarDetailCtrl', function($scope, $stateParams, Cars, $ionicModal, $ionicSlideBoxDelegate) {

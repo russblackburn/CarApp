@@ -1,5 +1,16 @@
-<ion-view title="Dashboard">
+<ion-view title="Featured">
   <ion-content class="padding">
-    <h1>Dash</h1>
+
+    <div class="list">
+
+      <a ng-repeat="feature in featured | filter:query | orderBy:orderProp"
+         href="#/tab/car/{{feature.id}}" class="item item-icon-right item-thumbnail-right row">
+        <i class="icon ion-ios7-arrow-right"></i>
+        <img class="col col-25" ng-src="{{feature.imageURL}}">
+        <h2 class="col col-75">{{feature.year}} {{feature.make}} {{feature.model}}<br><span class="valueText">${{feature.value}}</span><br><span class="vinText">VIN: {{feature.vin}}</span></h2>
+      </a>
+
+    </div>
+
   </ion-content>
 </ion-view>
