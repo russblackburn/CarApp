@@ -1,0 +1,48 @@
+[
+
+    {
+        "id":0,
+        "year":"2003",
+        "make":"Chevrolet",
+        "model":"Corvette",
+        "value":"16,000",
+        "mileage":"92,365",
+        "vin":"1G1YY22G135126806",
+        "imageURL":"img/corvette/thumbnail.jpg",
+        "fullCarName":"2003 Chevrolet Corvette",
+        "upc":"9783822840559",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/corvette/1.jpg",
+            "image2":"img/corvette/2.jpg",
+            "image3":"img/corvette/3.jpg",
+            "image4":"img/corvette/4.jpg"
+        },
+        "description":"2003 Corvette Z06 50th Anniversary Edition. Well maintained and very clean. I have had the car for a year, but am moving so I would like to sell it. The engine has been souped-up a bit with racing cams and modified timing. Sounds and runs great! This is a very fun car to drive. The body and interior are in good condition with very little noticeable wear. Includes cloth car cover."
+    },
+
+    {
+        "id":1,
+        "year":"2009",
+        "make":"Mini",
+        "model":"Cooper",
+        "value":"15,600",
+        "mileage":"52,087",
+        "vin":"WMWMF73549TT96054",
+        "imageURL":"img/cooper/thumbnail.jpg",
+        "fullCarName":"2009 Mini Cooper",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/cooper/1.jpg",
+            "image2":"img/cooper/2.jpg",
+            "image3":"img/cooper/3.jpg",
+            "image4":"img/cooper/4.jpg"
+        },
+        "description":"Almost new! Clean title, great working condition, excellent gas mileage and tires; it runs like new and even has a new fresh smell. Come and take it for spin and ask us about our warranties: up to five years covering engine, transmission and all the other essentials. Let us take care of your car so you can worry about other things."
+    }
+
+]

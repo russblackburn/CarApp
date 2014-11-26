@@ -1,14 +1,38 @@
 angular.module('starter.controllers', [])
 
     //injecting cars in dash to load json file before tab-cars page is opened
-.controller('DashCtrl', function($scope, Cars) {
+.controller('DashCtrl', function($scope, Cars, testdealer, Featured) {
 
 
 })
 
-.controller('CarsCtrl', function($scope, Cars, $cordovaBarcodeScanner) {
-  $scope.cars = Cars.all();
+.controller('CarsCtrl', function($cordovaGeolocation, $scope, $cordovaBarcodeScanner, Cars, testdealer, Featured) {
+  //$scope.cars = Cars.all();
         $scope.orderProp = '-year';
+
+
+        $cordovaGeolocation
+            .getCurrentPosition()
+            .then(function (position) {
+                var lat  = position.coords.latitude;
+                var long = position.coords.longitude;
+
+                if(lat <= 1){
+                    var positionResults = Cars.all();
+                }
+                if(lat >= 1){
+                    var positionResults = testdealer.all();
+                }
+                else{
+                    var positionResults = Featured.all();
+                }
+                $scope.cars = positionResults;
+            }, function(err) {
+                // error
+            });
+
+
+
         //adding barcode scanner
         $scope.scanBarcode = function() {
             $cordovaBarcodeScanner.scan().then(function(imageData) {
