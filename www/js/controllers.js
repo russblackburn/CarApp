@@ -1,8 +1,48 @@
 angular.module('starter.controllers', [])
 
     //injecting cars in dash to load json file before tab-cars page is opened
-.controller('DashCtrl', function($scope, Cars, testdealer, Featured) {
+.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Cars, testdealer, Featured) {
 
+        $http.get('data/dealer.json').success(function(data){
+            var dealer = data;
+
+            $cordovaGeolocation
+                .getCurrentPosition()
+                .then(function (position) {
+                    var lat  = position.coords.latitude;
+                    var long = position.coords.longitude;
+
+                    //dealer1
+                    if(lat >= 1){
+                        var positionResults = 1;
+                        findDealerObject(positionResults);
+                    }
+                    //dealer2
+                    else if(lat <= 1){
+                        var positionResults = 2;
+                        findDealerObject(positionResults);
+                    }
+                    //featured cars
+                    else{
+                        var positionResults = 0;
+                        findDealerObject(positionResults);
+                    }
+                    $scope.cars = positionResults;
+                }, function(err) {
+                    // error
+                });
+
+            function findDealerObject(positionResults){
+                for (var key in dealer) {
+                    if (dealer.hasOwnProperty(key)) {
+                        if (positionResults == dealer[key]['id']) {
+                            $scope.dealers = dealer[key];
+                        }
+                    }
+                }
+            }
+
+        });
 
 })
 
@@ -17,12 +57,15 @@ angular.module('starter.controllers', [])
                 var lat  = position.coords.latitude;
                 var long = position.coords.longitude;
 
-                if(lat <= 1){
+                //dealer1
+                if(lat >= 1){
                     var positionResults = Cars.all();
                 }
-                if(lat >= 1){
+                //dealer2
+                else if(lat <= 1){
                     var positionResults = testdealer.all();
                 }
+                //featured cars
                 else{
                     var positionResults = Featured.all();
                 }
