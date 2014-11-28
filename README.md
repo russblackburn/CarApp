@@ -24,9 +24,9 @@ CarApp
     $ ionic emulate ios
 
     Run
-        $ ionic build ios
-        (if running directly from Xcode open "platforms/ios" in Xcode and press play to run or follow the next step to run from the terminal)
-        $ ionic run ios
+    $ ionic build ios
+    (if running directly from Xcode open "platforms/ios" in Xcode and press play to run or follow the next step to run from the terminal)
+    $ ionic run ios
 
 ##4. Plugins##
 
