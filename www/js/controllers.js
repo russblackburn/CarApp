@@ -12,12 +12,12 @@ angular.module('starter.controllers', [])
                     var lat  = position.coords.latitude;
                     var long = position.coords.longitude;
 
-                    //dealer1
+                    //dealer1 UVU CS Building
                     if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                         var positionResults = 1;
                         findDealerObject(positionResults);
                     }
-                    //dealer2
+                    //dealer2 UVU Losee Center
                     else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
                         var positionResults = 2;
                         findDealerObject(positionResults);
@@ -57,11 +57,11 @@ angular.module('starter.controllers', [])
                 var lat  = position.coords.latitude;
                 var long = position.coords.longitude;
 
-                //dealer1
+                //dealer1 UVU CS Building
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Cars.all();
                 }
-                //dealer2
+                //dealer2 UVU Losee Center
                 else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
                     var positionResults = Testdealer.all();
                 }
@@ -105,11 +105,11 @@ angular.module('starter.controllers', [])
                 var lat  = position.coords.latitude;
                 var long = position.coords.longitude;
 
-                //dealer1
+                //dealer1 UVU CS Building
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Cars.get($stateParams.carId);
                 }
-                //dealer2
+                //dealer2 UVU Losee Center
                 else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
                     var positionResults = Testdealer.get($stateParams.carId);
                 }
