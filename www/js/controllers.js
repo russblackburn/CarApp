@@ -1,7 +1,7 @@
 angular.module('starter.controllers', [])
 
     //injecting cars in dash to load json file before tab-cars page is opened
-.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Cars, testdealer, Featured) {
+.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Cars, Testdealer, Featured) {
 
         $http.get('data/dealer.json').success(function(data){
             var dealer = data;
@@ -13,12 +13,12 @@ angular.module('starter.controllers', [])
                     var long = position.coords.longitude;
 
                     //dealer1
-                    if(lat >= 1){
+                    if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                         var positionResults = 1;
                         findDealerObject(positionResults);
                     }
                     //dealer2
-                    else if(lat <= 1){
+                    else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
                         var positionResults = 2;
                         findDealerObject(positionResults);
                     }
@@ -46,7 +46,7 @@ angular.module('starter.controllers', [])
 
 })
 
-.controller('CarsCtrl', function($cordovaGeolocation, $scope, $cordovaBarcodeScanner, Cars, testdealer, Featured) {
+.controller('CarsCtrl', function($cordovaGeolocation, $scope, $cordovaBarcodeScanner, Cars, Testdealer, Featured) {
   //$scope.cars = Cars.all();
         $scope.orderProp = '-year';
 
@@ -58,12 +58,12 @@ angular.module('starter.controllers', [])
                 var long = position.coords.longitude;
 
                 //dealer1
-                if(lat >= 1){
+                if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Cars.all();
                 }
                 //dealer2
-                else if(lat <= 1){
-                    var positionResults = testdealer.all();
+                else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
+                    var positionResults = Testdealer.all();
                 }
                 //featured cars
                 else{
@@ -73,7 +73,6 @@ angular.module('starter.controllers', [])
             }, function(err) {
                 // error
             });
-
 
 
         //adding barcode scanner
@@ -97,8 +96,31 @@ angular.module('starter.controllers', [])
 
 })
 
-.controller('CarDetailCtrl', function($scope, $stateParams, Cars, $ionicModal, $ionicSlideBoxDelegate) {
-  $scope.car = Cars.get($stateParams.carId);
+.controller('CarDetailCtrl', function($scope, $stateParams, $ionicModal, $cordovaGeolocation, $ionicSlideBoxDelegate, Cars, Testdealer, Featured) {
+  //$scope.car = Cars.get($stateParams.carId);
+
+        $cordovaGeolocation
+            .getCurrentPosition()
+            .then(function (position) {
+                var lat  = position.coords.latitude;
+                var long = position.coords.longitude;
+
+                //dealer1
+                if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
+                    var positionResults = Cars.get($stateParams.carId);
+                }
+                //dealer2
+                else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
+                    var positionResults = Testdealer.get($stateParams.carId);
+                }
+                //featured cars
+                else{
+                    var positionResults = Featured.get($stateParams.carId);
+                }
+                $scope.car = positionResults;
+            }, function(err) {
+                // error
+            });
 
         $ionicModal.fromTemplateUrl('my-modal.html', {
             scope: $scope,

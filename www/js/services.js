@@ -43,7 +43,7 @@ angular.module('starter.services', [])
   }
 })
 
-.factory('testdealer', function($http) {
+.factory('Testdealer', function($http) {
   // Might use a resource here that returns a JSON array
 
   // Adding http request to load json file
