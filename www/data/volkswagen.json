@@ -1,0 +1,233 @@
+[
+
+    {
+        "id":0,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Golf",
+        "value":"13,956",
+        "mileage":"18,337",
+        "vin":"WVWDB7AJ6DW119248",
+        "imageURL":"img/volkswagen/golf/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Golf",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/golf/1.jpg",
+            "image2":"img/volkswagen/golf/2.jpg",
+            "image3":"img/volkswagen/golf/3.jpg",
+            "image4":"img/volkswagen/golf/4.jpg"
+        },
+        "description":"2.5L I5 DOHC, Cloth Seating Surfaces, Compass, Electronic Stability Control, Heated door mirrors, Power driver seat, Power steering, Power windows, Remote keyless entry, and Tachometer. Wow! What a nice smaller car. This charming-looking and fun 2013 Volkswagen Golf has a great ride and great power. I really enjoyed driving it. It's very clean, almost new, and really fun to drive. Believe me when I say that you'll be just impressed with how much you can pack into the hatch of this Golf. It is nicely equipped with features such as 2.5L I5 DOHC, Cloth Seating Surfaces, Compass, Electronic Stability Control, Heated door mirrors, Power driver seat, Power steering, Power windows, Remote keyless entry, and Tachometer. You gotta come and see us!!"
+    },
+
+    {
+        "id":1,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Golf",
+        "value":"12,995",
+        "mileage":"39,135",
+        "vin":"WVWDB7AJ6DW132047",
+        "imageURL":"img/volkswagen/golf1/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Golf",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/golf1/1.jpg",
+            "image2":"img/volkswagen/golf1/2.jpg",
+            "image3":"img/volkswagen/golf1/3.jpg",
+            "image4":"img/volkswagen/golf1/4.jpg"
+        },
+        "description":"THIS SPORTY HATCHBACK WILL GET YOU 33MPG! WITH CRUISE CONTROL, CLIMATE CONTROL, AM/FM RADIO, CD PLAYER WITH AUX HOOKUP, POWER LOCKS, POWER MIRRORS, POWER WINDOWS AND MORE! THIS IS INTERNET PRICING ONLY! BRING IN THIS AD."
+    },
+
+    {
+        "id":2,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Golf",
+        "value":"12,995",
+        "mileage":"36,000",
+        "vin":"WVWDB7AJ1DW134188",
+        "imageURL":"img/volkswagen/golf2/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Golf",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/golf2/1.jpg",
+            "image2":"img/volkswagen/golf2/2.jpg",
+            "image3":"img/volkswagen/golf2/3.jpg",
+            "image4":"img/volkswagen/golf2/4.jpg"
+        },
+        "description":"This Golf is in immaculate shape both inside and out. The exterior is flawless, and the inside is perfect. If you are in the market for a clean Hatchback then you should know that this one has a clean title, NO accidents, the engine and the transmission are in perfect working order, and it comes with a clean vehicle history report. DO NOT go pay thousands more at any other dealership when this one is priced so competitively. Come take a look and you will not be disappointed!"
+    },
+
+    {
+        "id":3,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Golf TDI",
+        "value":"18,000",
+        "mileage":"33,995",
+        "vin":"WVWBM7AJ6DW003761",
+        "imageURL":"img/volkswagen/golf3/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Golf TDI",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Diesel",
+        "images":{
+            "image1":"img/volkswagen/golf3/1.jpg",
+            "image2":"img/volkswagen/golf3/2.jpg",
+            "image3":"img/volkswagen/golf3/3.jpg",
+            "image4":"img/volkswagen/golf3/4.jpg"
+        },
+        "description":"TDI! Clean Carfax! Great Condition! If you want an amazing deal on an amazing car that will not break your pocket book, then take a look at this fuel-efficient 2013 Volkswagen Golf. This outstanding Volkswagen is one of the most sought after used vehicles on the market because it NEVER lets owners down."
+    },
+
+    {
+        "id":4,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Jetta S",
+        "value":"15,000",
+        "mileage":"11,555",
+        "vin":"3VW2K7AJ1DM290493",
+        "imageURL":"img/volkswagen/jetta/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Jetta S",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/jetta/1.jpg",
+            "image2":"img/volkswagen/jetta/2.jpg",
+            "image3":"img/volkswagen/jetta/3.jpg",
+            "image4":"img/volkswagen/jetta/4.jpg"
+        },
+        "description":"Traction Control,Front Wheel Drive,Power Steering,4-Wheel Disc Brakes,Tires - Front All-Season,Tires - Rear All-Season,Steel Wheels,Temporary Spare Tire,Heated Mirrors,Power Mirror(s),Intermittent Wipers,Variable Speed Intermittent Wipers,AM/FM Stereo,CD Player,MP3 Player,Auxiliary Audio Input,Bucket Seats,Pass-Through Rear Seat,Rear Bench Seat,Cloth Seats,Adjustable Steering Wheel,Trip Computer,Power Windows,Power Door Locks,Keyless Entry,Remote Trunk Release,Engine Immobilizer,A/C,Rear Defrost,Power Outlet,Driver Vanity Mirror,Passenger Vanity Mirror,ABS,Stability Control,Brake Assist,Daytime Running Lights,Driver Air Bag,Passenger Air Bag,Passenger Air Bag Sensor,Front Side Air Bag,Front Head Air Bag,Rear Head Air Bag,Tire Pressure Monitor"
+    },
+
+    {
+        "id":5,
+        "dealer":"Volkswagen",
+        "year":"2007",
+        "make":"Volkswagen",
+        "model":"Jetta Wolfsberg Edition",
+        "value":"8,996",
+        "mileage":"77,550",
+        "vin":"3VWEG71KX7M067803",
+        "imageURL":"img/volkswagen/jetta1/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Jetta Wolfsberg Edition",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/jetta1/1.jpg",
+            "image2":"img/volkswagen/jetta1/2.jpg",
+            "image3":"img/volkswagen/jetta1/3.jpg",
+            "image4":"img/volkswagen/jetta1/4.jpg"
+        },
+        "description":"Check the CarFax!! Buy from an Award of Excellence Dealer you can trust! Creampuff! This gorgeous 2007 Volkswagen Jetta is not going to disappoint. There you have it short and sweet! You just simply can't beat a Volkswagen product. New Car Test Drive called it '...a delectable dish of European-bred automotive technology superior materials and tangibly good build quality...makes the Volkswagen driving experience especially distinctive and enjoyable...'"
+    },
+
+    {
+        "id":6,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Jetta SE",
+        "value":"12,950",
+        "mileage":"41,482",
+        "vin":"3VWDP7AJ7DM416432",
+        "imageURL":"img/volkswagen/jetta2/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Jetta SE",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/jetta2/1.jpg",
+            "image2":"img/volkswagen/jetta2/2.jpg",
+            "image3":"img/volkswagen/jetta2/3.jpg",
+            "image4":"img/volkswagen/jetta2/4.jpg"
+        },
+        "description":"BEAUTIFUL RED 2013 VW JETTA 2.5SE MODEL WITH CLEAN TITLE, POWER EVERYTHING, PRIVACY GLASS, AUX-IN, TIPTRONIC SHIFT SYSTEM, NON SMOKER, GORGEOUS BLACK LEATHER INTERIOR, LOW MILES, A FEW TO CHOOSE FROM, 2.5 LITER 5 CYLINDER MOTOR, PLENTY OF POWER WITH GREAT MPG, ROOMY AND COMFORTABLE, VERY RELIABLE, LOOKS AND RUNS GREAT, WE OFFER ALL KINDS OF FINANCING AND WARRANTIES."
+    },
+
+    {
+        "id":7,
+        "dealer":"Volkswagen",
+        "year":"2011",
+        "make":"Volkswagen",
+        "model":"Jetta SE",
+        "value":"12,490",
+        "mileage":"26,671",
+        "vin":"3VWDZ7AJ6BM371197",
+        "imageURL":"img/volkswagen/jetta3/thumbnail.jpg",
+        "fullCarName":"2011 Volkswagen Jetta SE",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/jetta3/1.jpg",
+            "image2":"img/volkswagen/jetta3/2.jpg",
+            "image3":"img/volkswagen/jetta3/3.jpg",
+            "image4":"img/volkswagen/jetta3/4.jpg"
+        },
+        "description":"What unbelievable price this SE Jetta is with 26k for $12,490!! This VW is equip with the convenience package that also features leather, heated seats, premium wheels, power windows, locks, cruise, automatic trans, and great gas mileage. It is a 1 OWNER along with a CLEAN TITLE that has been well cared for. This baby drives like new and handles very well in all conditions and also won't disappointed you."
+    },
+
+    {
+        "id":8,
+        "dealer":"Volkswagen",
+        "year":"2014",
+        "make":"Volkswagen",
+        "model":"Passat S",
+        "value":"19,627",
+        "mileage":"4,153",
+        "vin":"1VWAH7A35EC009665",
+        "imageURL":"img/volkswagen/passat/thumbnail.jpg",
+        "fullCarName":"2014 Volkswagen Passat S",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/passat/1.jpg",
+            "image2":"img/volkswagen/passat/2.jpg",
+            "image3":"img/volkswagen/passat/3.jpg",
+            "image4":"img/volkswagen/passat/4.jpg"
+        },
+        "description":"1.99% APR available on all Certified Volkswagen (oac) only at Strong Volkswagen see dealer for details. World Auto Certified Pre-Owned Vehicles come with an extended VW certified warranty, and Volkswagen roadside assistants for 2 years or 24,000 miles. If you're searching for the BEST PRICE, look no further."
+    },
+
+    {
+        "id":9,
+        "dealer":"Volkswagen",
+        "year":"2013",
+        "make":"Volkswagen",
+        "model":"Passat",
+        "value":"22,000",
+        "mileage":"11,681",
+        "vin":"1VWAH7A37DC093339",
+        "imageURL":"img/volkswagen/passat1/thumbnail.jpg",
+        "fullCarName":"2013 Volkswagen Passat",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/volkswagen/passat1/1.jpg",
+            "image2":"img/volkswagen/passat1/2.jpg",
+            "image3":"img/volkswagen/passat1/3.jpg",
+            "image4":"img/volkswagen/passat1/4.jpg"
+        },
+        "description":"A Certified World Auto Volkswagen come with the following benefits.2-year or 24,000-mile limited warranty. Volkswagen is happy to offer a 2-year or 24,000-mile (whichever comes first) bumper-to-bumper limited warranty1 on all Certified Pre-Owned vehicles.24-hour Roadside Assistance Program. 2Get two years of 24-hour Roadside Assistance on your vehicle.112-point inspection."
+    }
+
+]

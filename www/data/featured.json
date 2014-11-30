@@ -2,68 +2,140 @@
 
   {
     "id":0,
-    "year":"2006",
-    "make":"Porsche",
-    "model":"911",
-    "value":"44,440",
-    "mileage":"40,800",
-    "vin":"WP0AB29946S741731",
-    "imageURL":"img/911/thumbnail.jpg",
-    "fullCarName":"2006 Porsche 911",
+    "dealer":"Nissan",
+    "year":"2015",
+    "make":"Nissan",
+    "model":"370Z Nismo",
+    "value":"44,520",
+    "mileage":"7",
+    "vin":"JN1AZ4EH6FM440986",
+    "imageURL":"img/nissan/370nismo/thumbnail.jpg",
+    "fullCarName":"2015 Nissan 370Z Nismo",
     "title":"Clean",
     "doors":"2",
     "fuel":"Gas",
     "images":{
-      "image1":"img/911/1.jpg",
-      "image2":"img/911/2.jpg",
-      "image3":"img/911/3.jpg",
-      "image4":"img/911/4.jpg"
+      "image1":"img/nissan/370nismo/1.jpg",
+      "image2":"img/nissan/370nismo/2.jpg",
+      "image3":"img/nissan/370nismo/3.jpg",
+      "image4":"img/nissan/370nismo/4.jpg"
     },
-    "description":"2006 PORSCHE 911 CARRERA 4S, FULL LEATHER, NAVIGATION, BLUETOOTH, TIPTRONIC TRANSMITION, CLEAN CARFAX!!! And Full Leather Seat Trim. Nice car! Call us now! Clean Title and Clean Carfax. Ken Garff Porsche Audi is honored to offer this fantastic-looking and fun 2006 Porsche 911. This wonderful 911 is the fresh car with low miles and everything you'd expect from Porsche, and THEN some. It is nicely equipped with features such as CLEAN CARFAX!!! And Full Leather Seat Trim. J.D. Power has named the 2006 911 as the highest ranked in Overall Performance and Design in its class."
+    "description":"Imagine yourself behind the wheel of this terrific-looking 2015 Nissan 370Z. All work and no play makes Jack a dull boy. Well Jack was never accused of being dull in it. As a matter of fact, Jack has a little bad streak. And speaking of streaks, looks like he just left a couple more leaving the last stoplight. This car is nicely equipped with features such as ABS brakes, Alloy wheels, Electronic Stability Control, Heated door mirrors, Illuminated entry, Low tire pressure warning, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
   },
 
   {
     "id":1,
-    "year":"2009",
+    "dealer":"Nissan",
+    "year":"2013",
     "make":"Nissan",
-    "model":"GTR",
-    "value":"57,400",
-    "mileage":"50,000",
-    "vin":"JN1AR54F69M252673",
-    "imageURL":"img/gtr/thumbnail.jpg",
-    "fullCarName":"2009 Nissan GTR",
+    "model":"Altima",
+    "value":"16,495",
+    "mileage":"18,695",
+    "vin":"1N4AL3AP1DC133000",
+    "imageURL":"img/nissan/altima1/thumbnail.jpg",
+    "fullCarName":"2013 Nissan Altima",
     "title":"Clean",
-    "doors":"2",
+    "doors":"4",
     "fuel":"Gas",
     "images":{
-      "image1":"img/gtr/1.jpg",
-      "image2":"img/gtr/2.jpg",
-      "image3":"img/gtr/3.jpg",
-      "image4":"img/gtr/4.jpg"
+      "image1":"img/nissan/altima1/1.jpg",
+      "image2":"img/nissan/altima1/2.jpg",
+      "image3":"img/nissan/altima1/3.jpg",
+      "image4":"img/nissan/altima1/4.jpg"
     },
-    "description":"The car is white and beautiful.  As Far as upGrades I Upgraded the Rotors front and rear and rebuilt the brakes just 4000 miles ago and they have a long life ahead of them.  The motor has been upgraded with SBD (Speed By Design) who flew in and did the upgrade personally,full exhaust injectors and intakes.  The car runs Ecutk software with Flexfuel, so you can run 91 or E-85 on the fly no need to switch maps."
+    "description":"Clean title Guaranteed. 2013 Nissan Altima SV. 1 owner vehicle with an extremely clean interior and exterior and only 18 k miles. Very reliable and economic makes up to 38 MPG. It still under a bumper to bumper factory warranty until 36 k miles and a power-train factory warranty until 60 k miles. It comes loaded with Backup camera alloy wheels Bluetooth and much more. Protect your investment. This vehicle is eligible for a extended warranty for up to 5 years or 100 k miles."
   },
 
   {
     "id":2,
+    "dealer":"Nissan",
     "year":"2015",
     "make":"Nissan",
-    "model":"370 Nismo",
-    "value":"44,520",
+    "model":"370Z Touring",
+    "value":"40,745",
     "mileage":"7",
-    "vin":"JN1AZ4EH6FM440986",
-    "imageURL":"img/370nismo/thumbnail.jpg",
-    "fullCarName":"2015 Nissan 370 Nismo",
+    "vin":"JN1AZ4EH4FM440923",
+    "imageURL":"img/nissan/370touring/thumbnail.jpg",
+    "fullCarName":"2015 Nissan 370Z Touring",
     "title":"Clean",
     "doors":"2",
     "fuel":"Gas",
     "images":{
-      "image1":"img/370nismo/1.jpg",
-      "image2":"img/370nismo/2.jpg",
-      "image3":"img/370nismo/3.jpg",
-      "image4":"img/370nismo/4.jpg"
+      "image1":"img/nissan/370touring/1.jpg",
+      "image2":"img/nissan/370touring/2.jpg",
+      "image3":"img/nissan/370touring/3.jpg",
+      "image4":"img/nissan/370touring/4.jpg"
     },
-    "description":"Imagine yourself behind the wheel of this terrific-looking 2015 Nissan 370Z. All work and no play makes Jack a dull boy. Well Jack was never accused of being dull in it. As a matter of fact, Jack has a little bad streak. And speaking of streaks, looks like he just left a couple more leaving the last stoplight. This car is nicely equipped with features such as ABS brakes, Alloy wheels, Electronic Stability Control, Heated door mirrors, Illuminated entry, Low tire pressure warning, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+    "description":"When was the last time you smiled as you turned the ignition key? Feel it again with this wonderful 2015 Nissan 370Z. This great Nissan 370Z would look so much better waiting for you in your driveway instead of sitting here idly on our lot. As usual, it's ready...Come and get it! It is nicely equipped with features such as ABS brakes, Alloy wheels, DVD-Audio, Electronic Stability Control, Heated door mirrors, Heated front seats, Illuminated entry, Low tire pressure warning, Navigation System, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+  },
+
+  {
+    "id":3,
+    "dealer":"Volkswagen",
+    "year":"2013",
+    "make":"Volkswagen",
+    "model":"Golf",
+    "value":"13,956",
+    "mileage":"18,337",
+    "vin":"WVWDB7AJ6DW119248",
+    "imageURL":"img/volkswagen/golf/thumbnail.jpg",
+    "fullCarName":"2013 Volkswagen Golf",
+    "title":"Clean",
+    "doors":"4",
+    "fuel":"Gas",
+    "images":{
+      "image1":"img/volkswagen/golf/1.jpg",
+      "image2":"img/volkswagen/golf/2.jpg",
+      "image3":"img/volkswagen/golf/3.jpg",
+      "image4":"img/volkswagen/golf/4.jpg"
+    },
+    "description":"2.5L I5 DOHC, Cloth Seating Surfaces, Compass, Electronic Stability Control, Heated door mirrors, Power driver seat, Power steering, Power windows, Remote keyless entry, and Tachometer. Wow! What a nice smaller car. This charming-looking and fun 2013 Volkswagen Golf has a great ride and great power. I really enjoyed driving it. It's very clean, almost new, and really fun to drive. Believe me when I say that you'll be just impressed with how much you can pack into the hatch of this Golf. It is nicely equipped with features such as 2.5L I5 DOHC, Cloth Seating Surfaces, Compass, Electronic Stability Control, Heated door mirrors, Power driver seat, Power steering, Power windows, Remote keyless entry, and Tachometer. You gotta come and see us!!"
+  },
+
+  {
+    "id":4,
+    "dealer":"Volkswagen",
+    "year":"2013",
+    "make":"Volkswagen",
+    "model":"Golf TDI",
+    "value":"18,000",
+    "mileage":"33,995",
+    "vin":"WVWBM7AJ6DW003761",
+    "imageURL":"img/volkswagen/golf3/thumbnail.jpg",
+    "fullCarName":"2013 Volkswagen Golf TDI",
+    "title":"Clean",
+    "doors":"2",
+    "fuel":"Diesel",
+    "images":{
+      "image1":"img/volkswagen/golf3/1.jpg",
+      "image2":"img/volkswagen/golf3/2.jpg",
+      "image3":"img/volkswagen/golf3/3.jpg",
+      "image4":"img/volkswagen/golf3/4.jpg"
+    },
+    "description":"TDI! Clean Carfax! Great Condition! If you want an amazing deal on an amazing car that will not break your pocket book, then take a look at this fuel-efficient 2013 Volkswagen Golf. This outstanding Volkswagen is one of the most sought after used vehicles on the market because it NEVER lets owners down."
+  },
+
+  {
+    "id":5,
+    "dealer":"Volkswagen",
+    "year":"2014",
+    "make":"Volkswagen",
+    "model":"Passat S",
+    "value":"19,627",
+    "mileage":"4,153",
+    "vin":"1VWAH7A35EC009665",
+    "imageURL":"img/volkswagen/passat/thumbnail.jpg",
+    "fullCarName":"2014 Volkswagen Passat S",
+    "title":"Clean",
+    "doors":"4",
+    "fuel":"Gas",
+    "images":{
+      "image1":"img/volkswagen/passat/1.jpg",
+      "image2":"img/volkswagen/passat/2.jpg",
+      "image3":"img/volkswagen/passat/3.jpg",
+      "image4":"img/volkswagen/passat/4.jpg"
+    },
+    "description":"1.99% APR available on all Certified Volkswagen (oac) only at Strong Volkswagen see dealer for details. World Auto Certified Pre-Owned Vehicles come with an extended VW certified warranty, and Volkswagen roadside assistants for 2 years or 24,000 miles. If you're searching for the BEST PRICE, look no further."
   }
 
 ]

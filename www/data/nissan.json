@@ -1,0 +1,371 @@
+[
+
+    {
+        "id":0,
+        "dealer":"Nissan",
+        "year":"2009",
+        "make":"Nissan",
+        "model":"GTR",
+        "value":"57,400",
+        "mileage":"50,000",
+        "vin":"JN1AR54F69M252673",
+        "imageURL":"img/nissan/gtr/thumbnail.jpg",
+        "fullCarName":"2009 Nissan GTR",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/gtr/1.jpg",
+            "image2":"img/nissan/gtr/2.jpg",
+            "image3":"img/nissan/gtr/3.jpg",
+            "image4":"img/nissan/gtr/4.jpg"
+        },
+        "description":"The car is white and beautiful.  As Far as upGrades I Upgraded the Rotors front and rear and rebuilt the brakes just 4000 miles ago and they have a long life ahead of them.  The motor has been upgraded with SBD (Speed By Design) who flew in and did the upgrade personally,full exhaust injectors and intakes.  The car runs Ecutk software with Flexfuel, so you can run 91 or E-85 on the fly no need to switch maps."
+    },
+
+    {
+        "id":1,
+        "dealer":"Nissan",
+        "year":"2015",
+        "make":"Nissan",
+        "model":"370Z Nismo",
+        "value":"44,520",
+        "mileage":"7",
+        "vin":"JN1AZ4EH6FM440986",
+        "imageURL":"img/nissan/370nismo/thumbnail.jpg",
+        "fullCarName":"2015 Nissan 370Z Nismo",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/370nismo/1.jpg",
+            "image2":"img/nissan/370nismo/2.jpg",
+            "image3":"img/nissan/370nismo/3.jpg",
+            "image4":"img/nissan/370nismo/4.jpg"
+        },
+        "description":"Imagine yourself behind the wheel of this terrific-looking 2015 Nissan 370Z. All work and no play makes Jack a dull boy. Well Jack was never accused of being dull in it. As a matter of fact, Jack has a little bad streak. And speaking of streaks, looks like he just left a couple more leaving the last stoplight. This car is nicely equipped with features such as ABS brakes, Alloy wheels, Electronic Stability Control, Heated door mirrors, Illuminated entry, Low tire pressure warning, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+    },
+
+    {
+        "id":2,
+        "dealer":"Nissan",
+        "year":"2012",
+        "make":"Nissan",
+        "model":"Rogue",
+        "value":"17,995",
+        "mileage":"18,568",
+        "vin":"JN8AS5MV8CW386674",
+        "imageURL":"img/nissan/rogue/thumbnail.jpg",
+        "fullCarName":"2012 Nissan Rogue",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/rogue/1.jpg",
+            "image2":"img/nissan/rogue/2.jpg",
+            "image3":"img/nissan/rogue/3.jpg",
+            "image4":"img/nissan/rogue/4.jpg"
+        },
+        "description":"Clean title guaranteed. 2012 Nissan Rogue SV All Wheel Drive. 1 owner vehicle with an extremely clean interior and exterior and only 18 k miles. It still under a bumper to bumper factory warranty until 36 k miles and a power-train factory warranty until 60 k miles. It comes loaded with Back-up camera Bluetooth Connection and much more. Protect your investment. This vehicle is eligible for a extended warranty for up to 5 years or 100 k miles. Ask one of our representatives for details.***We pride ourselves in quality cars at an affordable price. Autocheck Vehicle report is provided with all of our vehicles to assure that all titles are clean."
+    },
+
+    {
+        "id":3,
+        "dealer":"Nissan",
+        "year":"2011",
+        "make":"Nissan",
+        "model":"Altima",
+        "value":"13,598",
+        "mileage":"23,146",
+        "vin":"1N4AL2AP7BN505564",
+        "imageURL":"img/nissan/altima/thumbnail.jpg",
+        "fullCarName":"2011 Nissan Altima",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/altima/1.jpg",
+            "image2":"img/nissan/altima/2.jpg",
+            "image3":"img/nissan/altima/3.jpg",
+            "image4":"img/nissan/altima/4.jpg"
+        },
+        "description":"Clean title guaranteed. 2011 Nissan Altima 2.5S. 1 owner vehicle with an extremely clean interior and exterior. Very reliable and economic makes up to 32 MPG. It still under a bumper to bumper factory warranty until 36 k miles and power-train warranty until 60 k miles. It comes loaded with options. Protect your investment. This vehicle is eligible for a extended warranty for up to 5 years or 100 k miles. Ask one of our representatives for details."
+    },
+
+    {
+        "id":4,
+        "dealer":"Nissan",
+        "year":"2013",
+        "make":"Nissan",
+        "model":"Altima",
+        "value":"16,495",
+        "mileage":"18,695",
+        "vin":"1N4AL3AP1DC133000",
+        "imageURL":"img/nissan/altima1/thumbnail.jpg",
+        "fullCarName":"2013 Nissan Altima",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/altima1/1.jpg",
+            "image2":"img/nissan/altima1/2.jpg",
+            "image3":"img/nissan/altima1/3.jpg",
+            "image4":"img/nissan/altima1/4.jpg"
+        },
+        "description":"Clean title Guaranteed. 2013 Nissan Altima SV. 1 owner vehicle with an extremely clean interior and exterior and only 18 k miles. Very reliable and economic makes up to 38 MPG. It still under a bumper to bumper factory warranty until 36 k miles and a power-train factory warranty until 60 k miles. It comes loaded with Backup camera alloy wheels Bluetooth and much more. Protect your investment. This vehicle is eligible for a extended warranty for up to 5 years or 100 k miles."
+    },
+
+    {
+        "id":5,
+        "dealer":"Nissan",
+        "year":"2011",
+        "make":"Nissan",
+        "model":"Altima",
+        "value":"12,995",
+        "mileage":"31,755",
+        "vin":"1N4AL2AP4BC151840",
+        "imageURL":"img/nissan/altima2/thumbnail.jpg",
+        "fullCarName":"2011 Nissan Altima",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/altima2/1.jpg",
+            "image2":"img/nissan/altima2/2.jpg",
+            "image3":"img/nissan/altima2/3.jpg",
+            "image4":"img/nissan/altima2/4.jpg"
+        },
+        "description":"Clean title guaranteed. 2011 Nissan Altima 2.5 S. 1 owner vehicle with an extremely clean interior and exterior and only 31 k miles. Very reliable and economic makes up to 32 MPG. It still under power-train factory warranty until 60 k miles or 5 years. It comes loaded with options. Protect your investment. This vehicle is eligible for a extended warranty for up to 5 years or 100 k miles."
+    },
+
+    {
+        "id":6,
+        "dealer":"Nissan",
+        "year":"2015",
+        "make":"Nissan",
+        "model":"Altima",
+        "value":"25,879",
+        "mileage":"7",
+        "vin":"1N4AL3APXFN312921",
+        "imageURL":"img/nissan/altima3/thumbnail.jpg",
+        "fullCarName":"2015 Nissan Altima",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/altima3/1.jpg",
+            "image2":"img/nissan/altima3/2.jpg",
+            "image3":"img/nissan/altima3/3.jpg",
+            "image4":"img/nissan/altima3/4.jpg"
+        },
+        "description":"When was the last time you smiled as you turned the ignition key? Feel it again with this handsome-looking 2015 Nissan Altima. This Altima would be so much happier out helping you save money on gas instead of sitting here unappreciated on our lot. It's ready, come and get it! It is nicely equipped with features such as Moonroof Package, Technology Package (Blind Spot Warning and Nissan Navigation System), CVT Xtronic, ABS brakes, Alloy wheels, Compass, Electronic Stability Control, Front dual zone A/C, Heated door mirrors, Heated Front Bucket Seats, Heated front seats, Illuminated entry, Low tire pressure warning, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC.See Dealer for Details. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+    },
+
+    {
+        "id":7,
+        "dealer":"Nissan",
+        "year":"2015",
+        "make":"Nissan",
+        "model":"370Z Touring",
+        "value":"40,745",
+        "mileage":"7",
+        "vin":"JN1AZ4EH4FM440923",
+        "imageURL":"img/nissan/370touring/thumbnail.jpg",
+        "fullCarName":"2015 Nissan 370Z Touring",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/370touring/1.jpg",
+            "image2":"img/nissan/370touring/2.jpg",
+            "image3":"img/nissan/370touring/3.jpg",
+            "image4":"img/nissan/370touring/4.jpg"
+        },
+        "description":"When was the last time you smiled as you turned the ignition key? Feel it again with this wonderful 2015 Nissan 370Z. This great Nissan 370Z would look so much better waiting for you in your driveway instead of sitting here idly on our lot. As usual, it's ready...Come and get it! It is nicely equipped with features such as ABS brakes, Alloy wheels, DVD-Audio, Electronic Stability Control, Heated door mirrors, Heated front seats, Illuminated entry, Low tire pressure warning, Navigation System, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC. Plus Destination. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+    },
+
+    {
+        "id":8,
+        "dealer":"Nissan",
+        "year":"2015",
+        "make":"Nissan",
+        "model":"370Z Nismo",
+        "value":"39,682",
+        "mileage":"11",
+        "vin":"1N4AL2AP7BN505564",
+        "imageURL":"img/nissan/z1/thumbnail.jpg",
+        "fullCarName":"2015 Nissan 370Z Nismo",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/z1/1.jpg",
+            "image2":"img/nissan/z1/2.jpg",
+            "image3":"img/nissan/z1/3.jpg",
+            "image4":"img/nissan/z1/4.jpg"
+        },
+        "description":"New Inventory** Incredible price!!! Priced below MSRP** Isn't it time for a Nissan?... Dare to compare!! Safety equipment includes: ABS Xenon headlights Traction control Curtain airbags Passenger Airbag Stability control Daytime running lights...Other features include: Bluetooth Power locks Power windows Auto Climate control."
+    },
+
+    {
+        "id":9,
+        "dealer":"Nissan",
+        "year":"2012",
+        "make":"Nissan",
+        "model":"370Z Nismo",
+        "value":"30,400",
+        "mileage":"18,600",
+        "vin":"JN1AZ4EH9CM560650",
+        "imageURL":"img/nissan/z2/thumbnail.jpg",
+        "fullCarName":"2012 Nissan 370Z Nismo",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/z2/1.jpg",
+            "image2":"img/nissan/z2/2.jpg",
+            "image3":"img/nissan/z2/3.jpg",
+            "image4":"img/nissan/z2/4.jpg"
+        },
+        "description":"Rare find and in immaculate condition! This car is an amazing ride and an unreal eye catcher! Nismo package is incredible both in appearance and in performance. We added a pioneer double din deck, that is full of options. Car also includes a clear bra to protect this amazing ride from rock chips A beautiful fun sexy car!"
+    },
+
+    {
+        "id":10,
+        "dealer":"Nissan",
+        "year":"2009",
+        "make":"Nissan",
+        "model":"370Z Sport",
+        "value":"25,000",
+        "mileage":"54,977",
+        "vin":"JN1AZ44E49M409604",
+        "imageURL":"img/nissan/z3/thumbnail.jpg",
+        "fullCarName":"2009 Nissan 370Z Sport",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/z3/1.jpg",
+            "image2":"img/nissan/z3/2.jpg",
+            "image3":"img/nissan/z3/3.jpg",
+            "image4":"img/nissan/z3/4.jpg"
+        },
+        "description":"Here i have my 2009 sports edition 370Z 100% bone stock besides powder coated White wheels. brand new toyo proxy tires about 95% life left in them, did oil change on 11/05/14 full synthetic oil i cant afford payments anymore i must let it go for what i owe please call or text thank you for looking please leave a message if i do not answer."
+    },
+
+    {
+        "id":11,
+        "dealer":"Nissan",
+        "year":"2015",
+        "make":"Nissan",
+        "model":"GTR Premium",
+        "value":"103,660",
+        "mileage":"7",
+        "vin":"JN1AR5EF5FM281155",
+        "imageURL":"img/nissan/gtr1/thumbnail.jpg",
+        "fullCarName":"2015 Nissan GTR Premium",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/gtr1/1.jpg",
+            "image2":"img/nissan/gtr1/2.jpg",
+            "image3":"img/nissan/gtr1/3.jpg",
+            "image4":"img/nissan/gtr1/4.jpg"
+        },
+        "description":"This GTR was just added to our stock.  With it's popular all wheel drive, this car makes perfect sense for Utah driving.  Come check it out now."
+    },
+
+    {
+        "id":12,
+        "dealer":"Nissan",
+        "year":"2015",
+        "make":"Nissan",
+        "model":"GTR Premium",
+        "value":"97,995",
+        "mileage":"12",
+        "vin":"JN1AR5EF8FM280811",
+        "imageURL":"img/nissan/gtr2/thumbnail.jpg",
+        "fullCarName":"2015 Nissan GTR Premium",
+        "title":"Clean",
+        "doors":"2",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/gtr2/1.jpg",
+            "image2":"img/nissan/gtr2/2.jpg",
+            "image3":"img/nissan/gtr2/3.jpg",
+            "image4":"img/nissan/gtr2/4.jpg"
+        },
+        "description":"Priced to Move - $5665 below MSRP*** This impressive GT-R with its grippy AWD will handle anything mother nature decides to throw at you... There is no better time than now to buy this superb Performance Vehicle ready to do-it-all for you** All Around champ! How tempting are all the options on this 2015 Nissan GT-R Premium: Carpeted GT-R Logo Floor Mats."
+    },
+
+    {
+        "id":13,
+        "dealer":"Nissan",
+        "year":"2014",
+        "make":"Nissan",
+        "model":"Maxima",
+        "value":"29,786",
+        "mileage":"8",
+        "vin":"1N4AA5AP7EC474260",
+        "imageURL":"img/nissan/maxima/thumbnail.jpg",
+        "fullCarName":"2014 Nissan Maxima",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/maxima/1.jpg",
+            "image2":"img/nissan/maxima/2.jpg",
+            "image3":"img/nissan/maxima/3.jpg",
+            "image4":"img/nissan/maxima/4.jpg"
+        },
+        "description":"Are you still driving around that old thing? Come on down today and get into this great-looking and fun 2014 Nissan Maxima! It's a terrific car that we have placed at a brilliant price. It is nicely equipped with features such as Sport Package (BOSE Audio System, Center Console, Climate Controlled Driver's Seat, Heated Front Seats, Heated Outside Mirrors, Heated Steering Wheel, Outside Mirrors w/Reverse Tilt-Down Feature, Premium Leather Steering Wheel, Rear Bucket Seats, Rear Spoiler w/Center High Mounted Stop Light, Shift Knob, and Sport-Tuned Suspension), Technology Package (7'' Touch-Screen Color Monitor w/VGA Display, Nissan Hard Drive Navigation System with Voice Recognition, and XM NavTraffic & NavWeather), ABS brakes, Alloy wheels, Electronic Stability Control, External Lighting, Front dual zone A/C, Illuminated entry, Low tire pressure warning, Power moonroof, Remote keyless entry, and Traction control. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC.See Dealer for Details. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+    },
+
+    {
+        "id":14,
+        "dealer":"Nissan",
+        "year":"2011",
+        "make":"Nissan",
+        "model":"Maxima S",
+        "value":"16,595",
+        "mileage":"32,209",
+        "vin":"1N4AA5AP9BC845074",
+        "imageURL":"img/nissan/maxima1/thumbnail.jpg",
+        "fullCarName":"2011 Nissan Maxima S",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/maxima1/1.jpg",
+            "image2":"img/nissan/maxima1/2.jpg",
+            "image3":"img/nissan/maxima1/3.jpg",
+            "image4":"img/nissan/maxima1/4.jpg"
+        },
+        "description":"Clean title guaranteed. 2011 Nissan Maxima 3.5 S. One owner vehicle with an extremely clean interior and exterior and only 32 k miles. Still under a bumper to bumper until 36 k miles or 3 years and power-train factory warranty until 60 k miles. Its comes loaded with bluetooth sunroof alloy wheels and much more. Protect your investment. This vehicle is eligible for a extended warranty for up to 5 years or 100 k miles. Ask one of our representatives for details."
+    },
+
+    {
+        "id":15,
+        "dealer":"Nissan",
+        "year":"2014",
+        "make":"Nissan",
+        "model":"Maxima",
+        "value":"23,138",
+        "mileage":"77",
+        "vin":"1N4AA5AP0EC451192",
+        "imageURL":"img/nissan/maxima2/thumbnail.jpg",
+        "fullCarName":"2014 Nissan Maxima",
+        "title":"Clean",
+        "doors":"4",
+        "fuel":"Gas",
+        "images":{
+            "image1":"img/nissan/maxima2/1.jpg",
+            "image2":"img/nissan/maxima2/2.jpg",
+            "image3":"img/nissan/maxima2/3.jpg",
+            "image4":"img/nissan/maxima2/4.jpg"
+        },
+        "description":"How enticing is this superb 2014 Nissan Maxima? This car is nicely equipped with features such as ABS brakes, Alloy wheels, Electronic Stability Control, Front dual zone A/C, Illuminated entry, Low tire pressure warning, Power moonroof, Remote keyless entry, and Traction control. So go ahead and feel free to flex your muscle in it. It will go from 0-60 in just about the same time it'll take you to catch your breath. *Price includes Dealer Discount and all factory incentives. Bonus Cash, Competitive Bonus Cash, Loyalty Bonus Cash and Incremental Customer Cash.Must finance with NMAC.See Dealer for Details. Price May Not reflect any dealer installed options/accessories. See Dealer for Details."
+    }
+
+]

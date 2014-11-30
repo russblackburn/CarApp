@@ -3,22 +3,22 @@ angular.module('starter.services', [])
 /**
  * A simple example service that returns some data.
  */
-.factory('Cars', function($http) {
+.factory('Nissan', function($http) {
   // Might use a resource here that returns a JSON array
 
   // Adding http request to load json file
-    var cars = [];
-    $http.get('data/cars.json').success(function(data){
-        cars = data;
+    var nissan = [];
+    $http.get('data/nissan.json').success(function(data){
+        nissan = data;
     });
 
   return {
     all: function() {
-      return cars;
+      return nissan;
     },
     get: function(carId) {
       // Simple index lookup
-      return cars[carId];
+      return nissan[carId];
     }
   }
 })
@@ -43,22 +43,22 @@ angular.module('starter.services', [])
   }
 })
 
-.factory('Testdealer', function($http) {
+.factory('Volkswagen', function($http) {
   // Might use a resource here that returns a JSON array
 
   // Adding http request to load json file
-  var testdealer = [];
-  $http.get('data/testdealer.json').success(function(data){
-    testdealer = data;
+  var volkswagen = [];
+  $http.get('data/volkswagen.json').success(function(data){
+    volkswagen = data;
   });
 
   return {
     all: function() {
-      return testdealer;
+      return volkswagen;
     },
     get: function(carId) {
       // Simple index lookup
-      return testdealer[carId];
+      return volkswagen[carId];
     }
   }
 });

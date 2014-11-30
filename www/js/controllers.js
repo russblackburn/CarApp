@@ -1,7 +1,7 @@
 angular.module('starter.controllers', [])
 
     //injecting cars in dash to load json file before tab-cars page is opened
-.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Cars, Testdealer, Featured) {
+.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Nissan, Volkswagen, Featured) {
 
         $http.get('data/dealer.json').success(function(data){
             var dealer = data;
@@ -13,11 +13,13 @@ angular.module('starter.controllers', [])
                     var long = position.coords.longitude;
 
                     //dealer1 UVU CS Building
+                    //if(lat < 1){
                     if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                         var positionResults = 1;
                         findDealerObject(positionResults);
                     }
                     //dealer2 UVU Losee Center
+                    //else if(lat > 1){
                     else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
                         var positionResults = 2;
                         findDealerObject(positionResults);
@@ -46,7 +48,7 @@ angular.module('starter.controllers', [])
 
 })
 
-.controller('CarsCtrl', function($cordovaGeolocation, $scope, $cordovaBarcodeScanner, Cars, Testdealer, Featured) {
+.controller('CarsCtrl', function($cordovaGeolocation, $scope, $cordovaBarcodeScanner, Nissan, Volkswagen, Featured) {
   //$scope.cars = Cars.all();
         $scope.orderProp = '-year';
 
@@ -58,12 +60,14 @@ angular.module('starter.controllers', [])
                 var long = position.coords.longitude;
 
                 //dealer1 UVU CS Building
+                //if(lat < 1){
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
-                    var positionResults = Cars.all();
+                    var positionResults = Nissan.all();
                 }
                 //dealer2 UVU Losee Center
+                //else if(lat > 1){
                 else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
-                    var positionResults = Testdealer.all();
+                    var positionResults = Volkswagen.all();
                 }
                 //featured cars
                 else{
@@ -96,7 +100,7 @@ angular.module('starter.controllers', [])
 
 })
 
-.controller('CarDetailCtrl', function($scope, $stateParams, $ionicModal, $cordovaGeolocation, $ionicSlideBoxDelegate, Cars, Testdealer, Featured) {
+.controller('CarDetailCtrl', function($scope, $stateParams, $ionicModal, $cordovaGeolocation, $ionicSlideBoxDelegate, Nissan, Volkswagen, Featured) {
   //$scope.car = Cars.get($stateParams.carId);
 
         $cordovaGeolocation
@@ -106,12 +110,14 @@ angular.module('starter.controllers', [])
                 var long = position.coords.longitude;
 
                 //dealer1 UVU CS Building
+                //if(lat < 1){
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
-                    var positionResults = Cars.get($stateParams.carId);
+                    var positionResults = Nissan.get($stateParams.carId);
                 }
                 //dealer2 UVU Losee Center
+                //else if(lat > 1){
                 else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
-                    var positionResults = Testdealer.get($stateParams.carId);
+                    var positionResults = Volkswagen.get($stateParams.carId);
                 }
                 //featured cars
                 else{
