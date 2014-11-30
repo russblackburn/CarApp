@@ -3,25 +3,22 @@
   {
     "id":0,
     "dealer":"Featured",
-    "imageURL":"",
-    "phone":"",
-    "address":""
+    "imageURL":"img/dealers/featured.jpg",
+    "description":"You are currently viewing a list of featured cars from participating dealer locations.  This list is comprised of cars that dealers have chosen to market at an additional cost.  To view a dealers full list of cars, simply visit a participating location and all cars available at that dealership will automatically load."
   },
 
   {
     "id":1,
-    "dealer":"Home",
-    "imageURL":"",
-    "phone":"",
-    "address":""
+    "dealer":"Nissan",
+    "imageURL":"img/dealers/nissan.jpg",
+    "description":"Here at Nissan we are dedicated to bringing you the best and highest quality of service we can provide.  Whether you are looking for a family car or sports car, we have a vehicle to meet your needs.  Stop by anytime and we will always be ready to assist you."
   },
 
   {
     "id":2,
-    "dealer":"Target",
-    "imageURL":"",
-    "phone":"",
-    "address":""
+    "dealer":"Volkswagen",
+    "imageURL":"img/dealers/vw.jpg",
+    "description":"Stop by Volkswagen today and see what we have to offer.  Our high gas mileage vehicles are sure to save you money at the pump.  Check out our TDI line and find out just how far you can go on one tank of gas.  Not sure you like diesel, we offer tons of standard gas vehicles as well."
   }
 
 ]

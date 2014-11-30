@@ -1,7 +1,11 @@
-<ion-view title="Home">
+<ion-view title="{{dealers.dealer}}">
   <ion-content class="padding">
 
-{{dealers.dealer}}
+    <div>
+      <img class="row responsive-sm" ng-src="{{dealers.imageURL}}">
+      <h3 class="dashCenter">{{dealers.dealer}}</h3><br>
+      {{dealers.description}}
+    </div>
 
   </ion-content>
 </ion-view>
