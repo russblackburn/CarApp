@@ -18,9 +18,9 @@ angular.module('starter.controllers', [])
                         var positionResults = 1;
                         findDealerObject(positionResults);
                     }
-                    //dealer2 UVU Losee Center
+                    //dealer2 UVU Sorensen Center
                     //else if(lat > 1){
-                    else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
+                    else if(long >= -111.715105 && long <= -111.713241 && lat <= 40.279309 && lat >= 40.277893){
                         var positionResults = 2;
                         findDealerObject(positionResults);
                     }
@@ -64,9 +64,9 @@ angular.module('starter.controllers', [])
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Nissan.all();
                 }
-                //dealer2 UVU Losee Center
+                //dealer2 UVU Sorensen Center
                 //else if(lat > 1){
-                else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
+                else if(long >= -111.715105 && long <= -111.713241 && lat <= 40.279309 && lat >= 40.277893){
                     var positionResults = Volkswagen.all();
                 }
                 //featured cars
@@ -114,9 +114,9 @@ angular.module('starter.controllers', [])
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Nissan.get($stateParams.carId);
                 }
-                //dealer2 UVU Losee Center
+                //dealer2 UVU Sorensen Center
                 //else if(lat > 1){
-                else if(long >= -111.713484 && long <= -111.711972 && lat <= 40.279007 && lat >= 40.279034){
+                else if(long >= -111.715105 && long <= -111.713241 && lat <= 40.279309 && lat >= 40.277893){
                     var positionResults = Volkswagen.get($stateParams.carId);
                 }
                 //featured cars
