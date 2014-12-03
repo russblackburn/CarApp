@@ -43,6 +43,26 @@ angular.module('starter.services', [])
   }
 })
 
+.factory('Dealer', function($http) {
+  // Might use a resource here that returns a JSON array
+
+  // Adding http request to load json file
+  var dealer = [];
+  $http.get('data/dealer.json').success(function(data){
+    dealer = data;
+  });
+
+  return {
+    all: function() {
+      return dealer;
+    },
+    get: function(carId) {
+      // Simple index lookup
+      return dealer[carId];
+    }
+  }
+})
+
 .factory('Volkswagen', function($http) {
   // Might use a resource here that returns a JSON array
 

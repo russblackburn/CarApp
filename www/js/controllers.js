@@ -1,10 +1,9 @@
 angular.module('starter.controllers', [])
 
     //injecting cars in dash to load json file before tab-cars page is opened
-.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Nissan, Volkswagen, Featured) {
+.controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Nissan, Volkswagen, Featured, Dealer) {
 
-        $http.get('data/dealer.json').success(function(data){
-            var dealer = data;
+            //var dealer = Dealer.all();
 
             $cordovaGeolocation
                 .getCurrentPosition()
@@ -35,6 +34,7 @@ angular.module('starter.controllers', [])
                 });
 
             function findDealerObject(positionResults){
+                var dealer = Dealer.all();
                 for (var key in dealer) {
                     if (dealer.hasOwnProperty(key)) {
                         if (positionResults == dealer[key]['id']) {
@@ -44,7 +44,6 @@ angular.module('starter.controllers', [])
                 }
             }
 
-        });
 
 })
 
