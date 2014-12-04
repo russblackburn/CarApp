@@ -5,8 +5,8 @@ CarApp
 
 ##1. Install##
 
-    $ sudo npm install -g ionic
-    $ sudo npm install -g cordova ionic
+    $ npm install -g ionic
+    $ npm install -g cordova ionic
     
 ##2. Clone##
 
