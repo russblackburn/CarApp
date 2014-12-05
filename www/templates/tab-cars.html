@@ -8,6 +8,17 @@
               <input type="text" ng-model="query" placeholder="Year, Make, Model, or VIN" id="scannerInput" value="">
           </label>
           <button class="button button-block button-stable" ng-click="scanBarcode()">Scan VIN</button>
+
+            <div class="row">
+              <select class="button button-stable col col-100" ng-model="orderProp">
+                  <option value="-year">Year "Newest First"</option>
+                  <option value="year">Year "Oldest First"</option>
+                  <option value="firstValue *1000 + secondValue">Price "Low to High"</option>
+                  <option value="-firstValue *1000 + secondValue">Price "High to Low"</option>
+                  <option value="make">Make</option>
+                  <option value="model">Model</option>
+              </select>
+            </div>
       </div>
 
       <!--value for input field that is not working ng-value="barcoderesults"-->
@@ -23,7 +34,7 @@
              href="#/tab/car/{{car.id}}" class="item item-icon-right item-thumbnail-right row">
               <i class="icon ion-ios7-arrow-right"></i>
               <img class="col col-25" ng-src="{{car.imageURL}}">
-              <h2 class="col col-75">{{car.year}} {{car.make}} {{car.model}}<br><span class="valueText">${{car.value}}</span><br><span class="vinText">VIN: {{car.vin}}</span></h2>
+              <h2 class="col col-75">{{car.year}} {{car.make}} {{car.model}}<br><span class="valueText">${{car.firstValue}},{{car.secondValue}}</span><br><span class="vinText">VIN: {{car.vin}}</span></h2>
           </a>
 
       </div>

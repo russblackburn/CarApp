@@ -59,7 +59,7 @@ angular.module('starter.controllers', [])
                 var long = position.coords.longitude;
 
                 //dealer1 UVU CS Building
-                //if(lat < 1){
+                //if(lat > 1){
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Nissan.all();
                 }
@@ -109,7 +109,7 @@ angular.module('starter.controllers', [])
                 var long = position.coords.longitude;
 
                 //dealer1 UVU CS Building
-                //if(lat < 1){
+                //if(lat > 1){
                 if(long >= -111.711827 && long <= -111.710282 && lat <= 40.279523 && lat >= 40.278557){
                     var positionResults = Nissan.get($stateParams.carId);
                 }
