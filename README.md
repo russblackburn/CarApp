@@ -5,7 +5,7 @@ This app is for both shoppers and dealerships.
 
 When a shopper arrives at a participating dealership, the app will use their phones geolocation to automatically load the dealerships information and a list of all their cars at that location.
 
-When the shopper is not at one of the locations, a list of featured cars will populate so that shoppers can still browse cars at home.  The featured car list is comprised of cars from multiple dealerships that pay extra to for the ability to show their stock to customers at home.
+When the shopper is not at one of the locations, a list of featured cars will populate so that shoppers can still browse cars at home.  The featured car list is comprised of cars from multiple dealerships that pay extra for the ability to show their stock to customers at home.
 
 Currently the geolocations set are both at Utah Valley University, the first is set at the Computer Science building and the other at the Sorensen Center.
 
