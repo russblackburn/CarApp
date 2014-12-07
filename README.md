@@ -29,7 +29,7 @@ Currently the geolocations set are both at Utah Valley University, the first is 
     Serve In Browser
     $ ionic serve
 
-    Run
+    Run On Device
     $ ionic platform add ios
     $ ionic build ios
     (if running directly from Xcode open "platforms/ios" in Xcode and press play to run or follow the next step to run from the terminal)
