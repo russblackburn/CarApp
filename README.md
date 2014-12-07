@@ -21,7 +21,7 @@ Currently the geolocations set are both at Utah Valley University, the first is 
     $ cd <choose a location>
     $ git clone https://github.com/russblackburn/CarApp.git
     
-##3. Serve/Emulate/Run##
+##3. Serve/Run##
 
     (Because this app relies on GeoLocation to work, you must serve it in a browser or
      run it on a device.  It will not emulate.)
