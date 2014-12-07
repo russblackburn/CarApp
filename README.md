@@ -23,6 +23,8 @@ Currently the geolocations set are both at Utah Valley University, the first is 
     
 ##3. Serve/Emulate/Run##
 
+    (Because this app relies on GeoLocation to work, you must serve it in a browser or run it on a device.  It will not emulate.)
+
     Serve In Browser
     $ ionic serve
 
@@ -32,6 +34,7 @@ Currently the geolocations set are both at Utah Valley University, the first is 
     $ ionic emulate ios
 
     Run
+    $ ionic platform add ios
     $ ionic build ios
     (if running directly from Xcode open "platforms/ios" in Xcode and press play to run or follow the next step to run from the terminal)
     $ ionic run ios
