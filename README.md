@@ -23,15 +23,11 @@ Currently the geolocations set are both at Utah Valley University, the first is 
     
 ##3. Serve/Emulate/Run##
 
-    (Because this app relies on GeoLocation to work, you must serve it in a browser or run it on a device.  It will not emulate.)
+    (Because this app relies on GeoLocation to work, you must serve it in a browser or
+     run it on a device.  It will not emulate.)
 
     Serve In Browser
     $ ionic serve
-
-    Emulate IOS
-    $ ionic platform add ios
-    $ ionic build ios
-    $ ionic emulate ios
 
     Run
     $ ionic platform add ios
