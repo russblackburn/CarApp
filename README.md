@@ -1,7 +1,11 @@
 CarApp
 ======
 
-This app is a tool for someone that is in the market for a car.  It also allows for dealerships to show all of the cars on their lot in a fast and easy way.  When a shopper arrives at a participating dealership, the app will use their phones geolocation to automatically load the dealerships cars and information for a better shopping experience.  When the shopper is not at one of the locations, a list of featured cars (provided by dealerships participating in the "featured cars" feature) will populate so that shoppers can still browse cars at home.
+This app is a tool for someone that is in the market for a car and also allow for dealerships to show all of the cars on their lot in a fast and easy way.  When a shopper arrives at a participating dealership, the app will use their phones geolocation to automatically load the dealerships information and a list of their cars.
+
+When the shopper is not at one of the locations, a list of featured cars (provided by dealerships participating in the "featured cars" feature) will populate so that shoppers can still browse cars at home.
+
+Currently the geolocations set are both at Utah Valley University, the first is set at the Computer Science building and the other at the Sorensen Center.
 
 *Directions to run this app*
 
