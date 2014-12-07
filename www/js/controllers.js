@@ -3,8 +3,6 @@ angular.module('starter.controllers', [])
     //injecting cars in dash to load json file before tab-cars page is opened
 .controller('DashCtrl', function($scope, $http, $cordovaGeolocation, Nissan, Volkswagen, Featured, Dealer) {
 
-            //var dealer = Dealer.all();
-
             $cordovaGeolocation
                 .getCurrentPosition()
                 .then(function (position) {
@@ -48,7 +46,7 @@ angular.module('starter.controllers', [])
 })
 
 .controller('CarsCtrl', function($cordovaGeolocation, $scope, $cordovaBarcodeScanner, Nissan, Volkswagen, Featured) {
-  //$scope.cars = Cars.all();
+
         $scope.orderProp = '-year';
 
 
@@ -100,7 +98,6 @@ angular.module('starter.controllers', [])
 })
 
 .controller('CarDetailCtrl', function($scope, $stateParams, $ionicModal, $cordovaGeolocation, $ionicSlideBoxDelegate, Nissan, Volkswagen, Featured) {
-  //$scope.car = Cars.get($stateParams.carId);
 
         $cordovaGeolocation
             .getCurrentPosition()
